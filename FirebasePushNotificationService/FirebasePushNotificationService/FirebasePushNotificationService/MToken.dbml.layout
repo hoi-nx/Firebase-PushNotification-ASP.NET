@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MToken">
+  <DataContextMoniker Name="/MTokenDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0b5bdd6e-cc03-4dfc-83a0-fd88ba6f03a5" absoluteBounds="5.375, 3.375, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/MTokenDataContext/FirebaseCloud" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2aa51609-53bc-4888-acf7-ccf084082155" absoluteBounds="5.39, 3.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
